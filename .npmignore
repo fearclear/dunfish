@@ -1,0 +1,22 @@
+# dev
+src/
+
+# setting
+.editorconfig
+.eslintignore
+.gitignore
+.npmignore
+tsconfig.json
+
+# vscode
+.vscode/
+
+# git
+.git/
+
+# package
+node_modules/
+yarn.lock
+
+# log
+log.md
