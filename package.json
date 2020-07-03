@@ -14,7 +14,8 @@
   },
   "scripts": {
     "dev": "ts-node src/index.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "lint": "eslint --ext .ts src/"
   },
   "repository": {
     "type": "git",
